@@ -1,7 +1,7 @@
-import { useState, useEffect } from "react";
-import { Container, Row, Col } from "react-bootstrap";
-import headerImg from "../assets/img/swe.png";
-import { ArrowRightCircle } from 'react-bootstrap-icons';
+// import { useState, useEffect } from "react";
+// import { Container, Row, Col } from "react-bootstrap";
+// import headerImg from "../assets/img/swe.png";
+// import { ArrowRightCircle } from 'react-bootstrap-icons';
 
 export const Achievements = () => {
     return (
