@@ -34,7 +34,8 @@
     "rules": {
       "no-unused-vars": "warn",
       "jsx-a11y/alt-text": "warn",
-      "jsx-a11y/anchor-is-valid": "warn"
+      "jsx-a11y/anchor-is-valid": "warn",
+      "no-warning-comments": "warn" 
     }
   },
   "browserslist": {
