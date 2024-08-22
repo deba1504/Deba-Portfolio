@@ -95,10 +95,10 @@ export const NavBar = () => {
           </Nav>
           <span className="navbar-text">
             <div className="social-icon">
-              <a href="https://www.linkedin.com/in/debasmita-adak-5a1172285" target="_blank"><img src={navIcon1} alt="" /></a>
+              <a href="https://www.linkedin.com/in/debasmita-adak-5a1172285" target="_blank" rel="noreferrer"><img src={navIcon1} alt="navicon1" /></a>
               
-              <a href="https://www.instagram.com/debasmitaadak15?igsh=MXMxeW1zZDNidmthaQ==" target="_blank"><img src={navIcon3} alt="" /></a>
-              <a href="https://github.com/deba1504" target="_blank"><img src={navIcon2} alt="" style={{ width: '80%',height:'80%' }}/></a>
+              <a href="https://www.instagram.com/debasmitaadak15?igsh=MXMxeW1zZDNidmthaQ==" target="_blank" rel="noreferrer"><img src={navIcon3} alt="navicon3" /></a>
+              <a href="https://github.com/deba1504" target="_blank" rel="noreferrer"><img src={navIcon2} alt="" style={{ width: '80%',height:'80%' }}/></a>
             </div>
             <Nav.Link 
               href="#connect" 
